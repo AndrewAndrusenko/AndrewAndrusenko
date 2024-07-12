@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **any ideas how to improve my platform**
 
-- 💬 Ask me about **Angular, PostgresSQL,RxJS, NodeJS**
+- 💬 Ask me about **Angular, PostgresSQL, RxJS, NodeJS**
 
 - 📫 How to reach me **aandrusenko3@gmail.com**
 
@@ -25,6 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> 
+<a href="https://rxjs.dev" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/rxjs/rxjs-original.svg" alt="rxjs" width="40" height="40"/></a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
