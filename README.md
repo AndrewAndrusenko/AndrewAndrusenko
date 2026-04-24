@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
-    <td><a href="https://linkedin.com" target="blank"><img src="src="./linkedin.svg" alt="LinkedIn" height="30" width="40" /></a></td>
+    <td><a href="https://linkedin.com" target="blank"><img src="./LinkedIn_icon.svg" alt="LinkedIn" height="30" width="40" /></a></td>
     <td><a href="https://facebook.com" target="blank"><img src="https://githubusercontent.com" alt="Facebook" height="30" width="40" /></a></td>
     <td><a href="https://youtube.com" target="blank"><img src="https://githubusercontent.com" alt="YouTube" height="30" width="40" /></a></td>
   </tr>
