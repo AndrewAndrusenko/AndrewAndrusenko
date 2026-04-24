@@ -15,7 +15,8 @@
 
 - ⚡ Fun fact **I like to do things more than to pr them**
 
-<h3 align="left">Connect with me:</h3><div align="left"><a href="https://www.linkedin.com/in/andrey-andrusenko-2b441b203/" target="blank"><img <table>
+<h3 align="left">Connect with me:</h3>
+<table>
   <tr>
     <td><a href="https://linkedin.com" target="blank"><img src="https://githubusercontent.com" alt="LinkedIn" height="30" width="40" /></a></td>
     <td><a href="https://facebook.com" target="blank"><img src="https://githubusercontent.com" alt="Facebook" height="30" width="40" /></a></td>
