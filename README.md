@@ -6,11 +6,15 @@
 - 🔭 I’m currently closing up [CRM project for Systems Soultion](https://p2zpsq4w-5001.euw.devtunnels.ms/apps/aam/login) and looking forward to join a new intersting project
 - 💰 [Asset Management Platform](https://p2zpsq4w-5001.euw.devtunnels.ms/apps/aam/login) is another my big project for financial companies. I'm plannig to update its design and introduce new features
 
-- 🌱 I’m currently learning **Angular, PostgresSQL,RxJS, NodeJS**
+- 🌱 Main stack is **Angular (+RxJs deep), Node.js, PostgreSQL** 
 
-- 🤝 I’m looking for help with **any ideas how to improve my platform**
+- 🤝 I'm constantly expanding my knowledge base. There is my extended tech stack:
+  - Express, WebSockets, NestJs, MongoDB, Redis, Passport.js, Nodemailer, JWT, Bcrypt, Jest, Pino logger.
+  - Data visualization: ECharts, Konva.js, Elkjs, Dagre
 
-- 💬 Ask me about **Angular, PostgresSQL, RxJS, NodeJS**
+- I’m looking for help with **any ideas how to improve my platform**
+
+- 💬 Ask me about *my projects and tech stack*. I would love to help out and share my ideas
 
 - 📫 How to reach me **aandrusenko3@gmail.com**
 
