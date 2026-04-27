@@ -8,11 +8,11 @@
 
 - 🌱 Main stack is **Angular (+RxJs deep), Node.js, PostgreSQL** 
 
-- 🤝 I'm constantly expanding my knowledge base. There is my extended tech stack:
+- 💡I'm constantly expanding my knowledge base. There is my extended tech stack:
   - Express, WebSockets, NestJs, MongoDB, Redis, Passport.js, Nodemailer, JWT, Bcrypt, Jest, Pino logger.
   - Data visualization: ECharts, Konva.js, Elkjs, Dagre
 
-- I’m looking for help with **any ideas how to improve my platform**
+- 🤝 I’m ready to contribute to new inspiring ideas and projects
 
 - 💬 Ask me about *my projects and tech stack*. I would love to help out and share my ideas
 
