@@ -31,6 +31,8 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="./skills-logos/postgresql.png" alt="postgresql" height="40" /></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer"><img src="./skills-logos/ws.png" alt="websockets"  height="40" /></a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="./skills-logos/express2.png" alt="expressjs"  height="40" /></a> 
+<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="./skills-logos/MongoDB_Fores-Green.svg" alt="mongodb"  height="40" /></a> 
+  
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewandrusenko&show_icons=true&locale=en&layout=compact" alt="andrewandrusenko" /></p>
 
