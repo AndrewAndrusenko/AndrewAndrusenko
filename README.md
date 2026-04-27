@@ -29,7 +29,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="./skills-logos/Node.svg" alt="nodejs" width="70" /></a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="./skills-logos/postgresql.png" alt="postgresql" height="40" /></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer"><img src="./skills-logos/ws.png" alt="websockets"  height="40" /></a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="./skills-logos/ExpressJS1.png" alt="expressjs"  height="40" /></a> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="./skills-logos/express.png" alt="expressjs"  height="40" /></a> 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewandrusenko&show_icons=true&locale=en&layout=compact" alt="andrewandrusenko" /></p>
