@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **aandrusenko3@gmail.com**
 
-- ⚡ Fun fact **I like to do things more than to pr them**
+- ⚡ Fun fact: I like doing something better than doing PR
 
 <h3 align="left">Connect with me:</h3>
 <table>
