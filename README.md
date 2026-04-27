@@ -25,18 +25,18 @@
  <a href="https://facebook.com" target="blank"><img src="./2021_Facebook_icon.svg" alt="Facebook" height="30" width="40" /></a>
 <h3 align="left">Languages and Tools:</h3>
 <p>
-  <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="./skills-logos/angular-icon.svg" alt="angular" width="40" height="40"/></a> 
-  <a href="https://rxjs.dev" target="_blank" rel="noreferrer"><img src="./skills-logos/rxjs-1.svg" alt="rxjs" width="40" height="40"/></a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="./skills-logos/Node.svg" alt="nodejs" width="70" /></a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="./skills-logos/postgresql.png" alt="postgresql" height="40" /></a> 
-  <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="./skills-logos/redis.svg" alt="redis" height="40" /></a> 
-  <a href="https://konvajs.org" target="_blank" rel="noreferrer"><img src="./skills-logos/konva.png" alt="konva" height="40" /></a> 
+  <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="./skills-logos/angular-icon.svg" alt="angular" width="40" height="40"/></a> &nbsp;
+  <a href="https://rxjs.dev" target="_blank" rel="noreferrer"><img src="./skills-logos/rxjs-1.svg" alt="rxjs" width="40" height="40"/></a>  &nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="./skills-logos/Node.svg" alt="nodejs" width="70" /></a>  &nbsp;
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="./skills-logos/postgresql.png" alt="postgresql" height="40" /></a>  &nbsp;
+  <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="./skills-logos/redis.svg" alt="redis" height="40" /></a>  &nbsp;
+  <a href="https://konvajs.org" target="_blank" rel="noreferrer"><img src="./skills-logos/konva.png" alt="konva" height="40" /></a>  &nbsp;
 </p>
 
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer"><img src="./skills-logos/ws.png" alt="websockets"  height="40" /></a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="./skills-logos/express2.png" alt="expressjs"  height="40" /></a> 
-  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="./skills-logos/MongoDB_Fores-Green.svg" alt="mongodb"  height="40" /></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer"><img src="./skills-logos/ws.png" alt="websockets"  height="40" /></a>  &nbsp;
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="./skills-logos/express2.png" alt="expressjs"  height="40" /></a>  &nbsp;
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="./skills-logos/MongoDB_Fores-Green.svg" alt="mongodb"  height="40" /></a>  &nbsp;
   
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewandrusenko&show_icons=true&locale=en&layout=compact" alt="andrewandrusenko" /></p>
