@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Andrew Andrusenko</h1>
-<h3 align="center">A quite good full stack developer with solid financial markets expertise</h3>
+<h3 align="center">Senior Full Stack developer with solid financial markets expertise</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewandrusenko&label=Profile%20views&color=0e75b6&style=flat" alt="andrewandrusenko" /> </p>
 
-- 🔭 I’m currently working on [Asset Management Platform](https://p2zpsq4w-5001.euw.devtunnels.ms/apps/aam/login)
+- 🔭 I’m currently closing up [CRM project for Systems Soultion](https://p2zpsq4w-5001.euw.devtunnels.ms/apps/aam/login) and looking forward to join a new intersting project
+- 💰 [Asset Management Platform](https://p2zpsq4w-5001.euw.devtunnels.ms/apps/aam/login) is another my big project for financial companies. I'm plannig to update its design and introduce new features
 
 - 🌱 I’m currently learning **Angular, PostgresSQL,RxJS, NodeJS**
 
