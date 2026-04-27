@@ -27,7 +27,8 @@
 <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="./skills-logos/angular-icon.svg" alt="angular" width="40" height="40"/></a> 
 <a href="https://rxjs.dev" target="_blank" rel="noreferrer"><img src="./skills-logos/rxjs-1.svg" alt="rxjs" width="40" height="40"/></a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="./skills-logos/Node.svg" alt="nodejs" width="70" /></a> 
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="./skills-logos/postgresql.png" alt="postgre" width="40/></a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="./skills-logos/postgresql.png" alt="postgresql" height="40" /></a> 
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewandrusenko&show_icons=true&locale=en&layout=compact" alt="andrewandrusenko" /></p>
 
