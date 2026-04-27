@@ -24,7 +24,7 @@
 <table>
   <tr>
     <td><a href="https://linkedin.com" target="blank"><img src="./LinkedIn_icon.svg" alt="LinkedIn" height="30" width="40" /></a></td>
-    <td><a href="https://facebook.com" target="blank"><img src="./icons8-facebook.svg" alt="Facebook" height="30" width="40" /></a></td>
+    <td><a href="https://facebook.com" target="blank"><img src="./2021_Facebook_icon.svg" alt="Facebook" height="30" width="40" /></a></td>
     <td><a href="https://youtube.com" target="blank"><img src="https://githubusercontent.com" alt="YouTube" height="30" width="40" /></a></td>
   </tr>
 </table>
