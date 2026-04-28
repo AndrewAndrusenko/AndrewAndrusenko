@@ -30,6 +30,7 @@
   <a href="https://nodejs.org" target="_blank" title="Node.js" rel="noreferrer"><img src="./skills-logos/Node.svg" alt="nodejs" width="70" /></a>  &nbsp;
   <a href="https://www.postgresql.org" target="_blank" title="PostgreSQL" rel="noreferrer"><img src="./skills-logos/postgresql.png" alt="postgresql" height="40" /></a>  &nbsp;
   <a href="https://redis.io" target="_blank" title="Redis" rel="noreferrer"><img src="./skills-logos/redis.svg" alt="redis" height="40" /></a>  &nbsp;
+  <a href="https://nestjs.com" target="_blank" title="NestJs - Backend framework" rel="noreferrer"><img src="./skills-logos/nestjs.png" alt="nestjs" height="40" /></a>  &nbsp;
   <a href="https://konvajs.org" target="_blank" title="Konva.js - Data visualization" rel="noreferrer"><img src="./skills-logos/konva.png" alt="konva" height="40" /></a>  &nbsp;
 </p>
 
