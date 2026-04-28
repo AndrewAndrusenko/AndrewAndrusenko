@@ -37,6 +37,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API"  title="WebSockets clients and servers" target="_blank" rel="noreferrer"><img src="./skills-logos/ws.png" alt="websockets"  height="40" /></a>  &nbsp;
   <a href="https://expressjs.com" target="_blank"  title="Express - Rest API servers node.js" rel="noreferrer"><img src="./skills-logos/express2.png" alt="expressjs"  height="40" /></a>  &nbsp;
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer" title="MongoDB"><img src="./skills-logos/MongoDB_Fores-Green.svg" alt="mongodb"  height="40" /></a>  &nbsp;
+  <a href="https://echarts.apache.org" target="_blank"  title="ECharts - Data visualization" rel="noreferrer" title="MongoDB"><img src="./skills-logos/echarts-logo.png" alt="echarts"  height="40" /></a>  &nbsp;
   
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewandrusenko&show_icons=true&locale=en&layout=compact" alt="andrewandrusenko" /></p>
