@@ -21,8 +21,8 @@
 - ⚡ Fun fact: I like doing something better than doing PR
 
 <h3 align="left">Connect with me:</h3>
- <a href="https://linkedin.com" target="blank"><img src="./LinkedIn_icon.svg" alt="LinkedIn" height="30" width="40" /></a>
- <a href="https://facebook.com" target="blank"><img src="./2021_Facebook_icon.svg" alt="Facebook" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/andrey-andrusenko-2b441b203/" target="blank"><img src="./LinkedIn_icon.svg" alt="LinkedIn" height="30" width="40" /></a>
+ <a href="https://www.facebook.com/profile.php?id=100006265744393" target="blank"><img src="./2021_Facebook_icon.svg" alt="Facebook" height="30" width="40" /></a>
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <a href="https://angular.io" target="_blank"  title="Angular" rel="noreferrer"><img src="./skills-logos/angular-icon.svg" alt="angular" width="40" height="40"/></a> &nbsp;
