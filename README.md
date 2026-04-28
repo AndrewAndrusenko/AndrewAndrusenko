@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewandrusenko&label=Profile%20views&color=0e75b6&style=flat" alt="andrewandrusenko" /> </p>
 
-- 🔭 I’m currently closing up [CRM project for Systems Soultion](https://p2zpsq4w-5001.euw.devtunnels.ms/apps/aam/login) and looking forward to join a new intersting project
+- 🔭 I’m currently closing up [CRM project for Systems Soultion](http://dev-t1.dev-t.asedo.ru/) and looking forward to join a new intersting project
 - 💰 [Asset Management Platform](https://p2zpsq4w-5001.euw.devtunnels.ms/apps/aam/login) is another my big project for financial companies. I'm plannig to update its design and introduce new features
 
 - 🌱 Main stack is **Angular (+RxJs deep), Node.js, PostgreSQL** 
