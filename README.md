@@ -35,8 +35,8 @@
 </p>
 
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API"  title="WebSockets clients and servers" target="_blank" rel="noreferrer"><img src="./skills-logos/ws.png" alt="websockets"  height="40" /></a>  &nbsp;
   <a href="https://www.postgresql.org" target="_blank" title="PostgreSQL" rel="noreferrer"><img src="./skills-logos/postgresql.png" alt="postgresql" height="40" /></a>  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API"  title="WebSockets clients and servers" target="_blank" rel="noreferrer"><img src="./skills-logos/ws.png" alt="websockets"  height="40" /></a>  &nbsp;
   <a href="https://expressjs.com" target="_blank"  title="Express - Rest API servers node.js" rel="noreferrer"><img src="./skills-logos/express2.png" alt="expressjs"  height="40" /></a>  &nbsp;
   <a href="https://redis.io" target="_blank" title="Redis" rel="noreferrer"><img src="./skills-logos/redis.svg" alt="redis" height="40" /></a>  &nbsp;
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer" title="MongoDB"><img src="./skills-logos/MongoDB_Fores-Green.svg" alt="mongodb"  height="40" /></a>  &nbsp;
