@@ -9,7 +9,7 @@
 - 🌱 Main stack is **Angular (+RxJs deep), Node.js, PostgreSQL** 
 
 - 💡I'm constantly expanding my knowledge base. There is my extended tech stack:
-  - Express, WebSockets, NestJs, MongoDB, Redis, Passport.js, Nodemailer, JWT, Bcrypt, Jest, Pino logger.
+  - Express, WebSockets, NestJs, MongoDB, Redis, Passport.js, Nodemailer, JWT, Bcrypt, Jest, Pino Logger.
   - Data visualization: ECharts, Konva.js, Elkjs, Dagre
 
 - 🤝 I’m ready to contribute to new inspiring ideas and projects
