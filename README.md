@@ -29,7 +29,7 @@
   <a href="https://rxjs.dev" target="_blank" title="RxJS" rel="noreferrer"><img src="./skills-logos/rxjs-1.svg" alt="rxjs" width="40" height="40"/></a>  &nbsp;
   <a href="https://nodejs.org" target="_blank" title="Node.js" rel="noreferrer"><img src="./skills-logos/Node.svg" alt="nodejs" width="70" /></a>  &nbsp;
   <a href="https://konvajs.org" target="_blank" title="Konva.js - Data visualization" rel="noreferrer"><img src="./skills-logos/konva.png" alt="konva" height="40" /></a>  &nbsp;
-  <a href="https://eclipse.dev/elk" target="_blank" title="ELK - Data visualization" rel="noreferrer"><img src="./skills-logos/elk.png" alt="elk" height="40" /></a>  &nbsp;
+  <a href="https://eclipse.dev/elk" target="_blank" title="ELK - Data visualization" rel="noreferrer"><img src="./skills-logos/elk2.png" alt="elk" height="40" /></a>  &nbsp;
   <a href="https://echarts.apache.org" target="_blank"  title="ECharts - Data visualization" rel="noreferrer" ><img src="./skills-logos/echarts-logo.png" alt="echarts"  height="40" /></a>  &nbsp;
   <a href="https://jestjs.io" target="_blank"  title="Jest - testing framework" rel="noreferrer"><img src="./skills-logos/jest3.png" alt="jest"  height="40" /></a>  &nbsp;
 </p>
