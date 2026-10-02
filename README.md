@@ -55,11 +55,11 @@ I am a performance-focused Full-Stack Engineer with an extensive background in t
 
 
 <p align="left">
-  <img src="https://vercel.app" alt="Top Languages" />
+  <img src="https://git-app.top" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" />
+  <img src="https://git-app.top" alt="GitHub Stats" />
 </p>
 
 <p align="left">
