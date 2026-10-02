@@ -1,52 +1,70 @@
 <h1 align="center">Hi 👋, I'm Andrew Andrusenko</h1>
-<h3 align="center">Senior Full Stack developer with solid financial markets expertise</h3>
+<h3 align="center">Senior Full-Stack / Frontend Engineer specializing in FinTech Architectures & Web Performance</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewandrusenko&label=Profile%20views&color=0e75b6&style=flat" alt="andrewandrusenko" /> </p>
-
-- 🔭 I’m currently closing up [CRM project for Systems Soultion](https://ppklrx85-5001.euw.devtunnels.ms/apps/crm1/) and looking forward to join a new intersting project
-- 💰 [Asset Management Platform](https://ppklrx85-5001.euw.devtunnels.ms/apps/aam) is another my big project for financial companies. I'm plannig to update its design and introduce new features
-
-- 🌱 Main stack is **Angular (+RxJs deep), Node.js, PostgreSQL** 
-
-- 💡I'm constantly expanding my knowledge base. There is my extended tech stack:
-  - Express, WebSockets, NestJs, MongoDB, Redis, Passport.js, Nodemailer, JWT, Bcrypt, Jest, Pino Logger.
-  - Data visualization: ECharts, Konva.js, Elkjs, Dagre
-
-- 🤝 I’m ready to contribute to new inspiring ideas and projects
-
-- 💬 Ask me about *my projects and tech stack*. I would love to help out and share my ideas
-
-- 📫 How to reach me **aandrusenko3@gmail.com**
-
-- ⚡ Fun fact: I like doing something better than doing PR
-
-<h3 align="left">Connect with me:</h3>
- <a href="https://www.linkedin.com/in/andrey-andrusenko-2b441b203/" ><img src="./LinkedIn_icon.svg" alt="LinkedIn" height="30" width="40" /></a>
- <a href="https://www.facebook.com/profile.php?id=100006265744393" ><img src="./2021_Facebook_icon.svg" alt="Facebook" height="30" width="40" /></a>
-<h3 align="left">Languages and Tools:</h3>
-<p>
-  <a href="https://angular.io" target="_blank"  title="Angular" rel="noreferrer"><img src="./skills-logos/angular-icon.svg" alt="angular" width="40" height="40"/></a> &nbsp;
-  <a href="https://rxjs.dev" target="_blank" title="RxJS" rel="noreferrer"><img src="./skills-logos/rxjs-1.svg" alt="rxjs" width="40" height="40"/></a>  &nbsp;
-  <a href="https://nodejs.org" target="_blank" title="Node.js" rel="noreferrer"><img src="./skills-logos/Node.svg" alt="nodejs" width="70" /></a>  &nbsp;
-  <a href="https://konvajs.org" target="_blank" title="Konva.js - Data visualization" rel="noreferrer"><img src="./skills-logos/konva.png" alt="konva" height="40" /></a>  &nbsp;
-  <a href="https://eclipse.dev/elk" target="_blank" title="ELK - Data visualization" rel="noreferrer"><img src="./skills-logos/elk2.png" alt="elk" height="40" /></a>  &nbsp;
-  <a href="https://echarts.apache.org" target="_blank"  title="ECharts - Data visualization" rel="noreferrer" ><img src="./skills-logos/echarts-logo.png" alt="echarts"  height="40" /></a>  &nbsp;
-  <a href="https://jestjs.io" target="_blank"  title="Jest - testing framework" rel="noreferrer"><img src="./skills-logos/jest3.png" alt="jest"  height="40" /></a>  &nbsp;
+<p align="center">
+  <img src="https://komarev.com" alt="andrewandrusenko" />
 </p>
 
-<p>
-  <a href="https://www.postgresql.org" target="_blank" title="PostgreSQL" rel="noreferrer"><img src="./skills-logos/postgresql.png" alt="postgresql" height="40" /></a>  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API"  title="WebSockets clients and servers" target="_blank" rel="noreferrer"><img src="./skills-logos/ws.png" alt="websockets"  height="40" /></a>  &nbsp;
-  <a href="https://expressjs.com" target="_blank"  title="Express - Rest API servers node.js" rel="noreferrer"><img src="./skills-logos/express2.png" alt="expressjs"  height="40" /></a>  &nbsp;
-  <a href="https://redis.io" target="_blank" title="Redis" rel="noreferrer"><img src="./skills-logos/redis.svg" alt="redis" height="40" /></a>  &nbsp;
-  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer" title="MongoDB"><img src="./skills-logos/MongoDB_Fores-Green.svg" alt="mongodb"  height="40" /></a>  &nbsp;
-  <a href="https://nestjs.com" target="_blank" title="NestJs - Backend framework" rel="noreferrer"><img src="./skills-logos/nestJs.png" alt="nestjs" height="40" /></a>  &nbsp;
-  <a href="https://www.passportjs.org" target="_blank" title="Authentication middleware for Node.js" rel="noreferrer"><img src="./skills-logos/passport2.png" alt="passport" height="40" /></a>  &nbsp;
-  
+---
+
+### 💻 Engineering Profile
+I am a performance-focused Full-Stack Engineer with an extensive background in the financial sector (including operations automation at **BNP Paribas** and infrastructure deployment at **Renaissance Investment Management**). I specialize in bridging deep financial domain logic with production-grade, highly secure software systems. 
+
+*   **Core Architectural Focus:** Real-time data streaming (WebSockets), reactive state management (Advanced RxJS semaphores), enterprise database isolation (PostgreSQL RLS), and lightweight infrastructure containerization.
+*   **Performance Metrics:** Achieved up to **6.5x frontend bundle reduction** via Brotli/lazy loading and optimized Docker footprint by **cutting image sizes from 1.44 GB to 300 MB**.
+
+---
+
+### 🚀 Production Product Showcase
+
+| Product / Platform | Live System Architecture | Source Code | Core Engineering Highlights |
+| :--- | :--- | :--- | :--- |
+| **Enterprise Asset Management (AMP)** | 🌐 [Live App Demo](https://devtunnels.ms) | 🔒 *Private Repo* | Full cycle PMS/OMS system. **69 tables**, 82 DB functions, and **18 Row-Level Security (RLS)** policies in PostgreSQL. Automated FIFO tracking and TWRR analytics. |
+| **Real-Time Stock Quotes Engine** | 📈 [Live Streaming Demo](https://devtunnels.ms) | 🐱 [Frontend](https://github.com) <br> 🐱 [Backend](https://github.com) | High-frequency data stream processing **under 50ms**. Loop-free data throttling via **RxJS buffering semaphores** to eliminate layout freeze. |
+| **Central Identity Provider (IdP)** | 🔑 [Live Auth Demo](https://devtunnels.ms) | 🐱 [Core Auth Backend](https://github.com) | Standalone Auth Server. **HttpOnly + SameSite=Lax cookie-encapsulated JWT architecture** for XSS protection. Lockless sync via **RxJS `exhaustMap` pattern**. |
+| **Low-Code Enterprise Platform** | 🏢 [Live Platform Demo 1](https://ppklrx85-5001.euw.devtunnels.ms/apps/crm1/) <br> 🏢 [Live Platform Demo 2](https://devtunnels.ms) | 🔒 *Private Repo* | Distributed low-code infrastructure. Built an in-house interactive chart and diagram rendering library utilizing **Konva, Elk, and Dagre**. |
+---
+
+### 🛠️ Core Technology Stack
+
+<p align="left">
+  <strong>Frontend Engineering:</strong><br>
+  <a href="https://angular.dev" target="_blank" rel="noreferrer"><img src="./skills-logos/angular-icon.svg" alt="Angular" width="40" height="40"/></a> &nbsp;
+  <a href="https://rxjs.dev" target="_blank" rel="noreferrer"><img src="./skills-logos/rxjs-1.svg" alt="RxJS" width="40" height="40"/></a> &nbsp;
+  <a href="https://konvajs.org" target="_blank" rel="noreferrer"><img src="./skills-logos/konva.png" alt="Konva.js" height="40" /></a> &nbsp;
+  <a href="https://eclipse.dev" target="_blank" rel="noreferrer"><img src="./skills-logos/elk2.png" alt="ELK" height="40" /></a> &nbsp;
+  <a href="https://apache.org" target="_blank" rel="noreferrer"><img src="./skills-logos/echarts-logo.png" alt="ECharts" height="40" /></a> &nbsp;
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="./skills-logos/jest3.png" alt="Jest" height="40" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewandrusenko&show_icons=true&locale=en&layout=compact" alt="andrewandrusenko" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewandrusenko&show_icons=true&locale=en" alt="andrewandrusenko" /></p>
+<p align="left">
+  <strong>Backend, Databases & Security:</strong><br>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="./skills-logos/Node.svg" alt="Node.js" height="40" /></a> &nbsp;
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="./skills-logos/express2.png" alt="Express" height="40" /></a> &nbsp;
+  <a href="https://nestjs.com" target="_blank" rel="noreferrer"><img src="./skills-logos/nestJs.png" alt="NestJS" height="40" /></a> &nbsp;
+  <a href="https://postgresql.org" target="_blank" rel="noreferrer"><img src="./skills-logos/postgresql.png" alt="PostgreSQL" height="40" /></a> &nbsp;
+  <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="./skills-logos/redis.svg" alt="Redis" height="40" /></a> &nbsp;
+  <a href="https://mongodb.com" target="_blank" rel="noreferrer"><img src="./skills-logos/MongoDB_Fores-Green.svg" alt="MongoDB" height="40" /></a> &nbsp;
+  <a href="https://passportjs.org" target="_blank" rel="noreferrer"><img src="./skills-logos/passport2.png" alt="Passport.js" height="40" /></a> &nbsp;
+  <a href="https://mozilla.org" target="_blank" rel="noreferrer"><img src="./skills-logos/ws.png" alt="WebSockets" height="40" /></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrewandrusenko&" alt="andrewandrusenko" /></p>
+---
 
+### 📊 GitHub Ecosystem Metrics
+
+![Top Languages](https://vercel.app)
+
+![GitHub Stats](https://vercel.app)
+
+![GitHub Streak](https://herokuapp.com)
+
+---
+src="https://herokuapp.com" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+*   **Email:** aandrusenko3@gmail.com
+*   **LinkedIn:** [Andrew Andrusenko on LinkedIn](https://linkedin.com)
