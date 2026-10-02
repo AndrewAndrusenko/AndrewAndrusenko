@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andrew Andrusenko</h1>
 <h3 align="center">Senior Full-Stack / Frontend Engineer specializing in FinTech Architectures & Web Performance</h3>
 
-<p align="center">
-  <img src="https://komarev.com" alt="andrewandrusenko" />
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=andrewandrusenko&label=Profile%20views&color=0e75b6&style=flat" alt="andrewandrusenko" /> 
 </p>
 
 ---
@@ -53,19 +53,17 @@ I am a performance-focused Full-Stack Engineer with an extensive background in t
 
 ### 📊 GitHub Ecosystem Metrics
 
-
 <p align="left">
-  <img src="https://git-app.top" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewandrusenko&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://git-app.top" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andrewandrusenko&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.hero_kuapp.com/?user=andrewandrusenko&theme=dark" alt="GitHub Streak" />
 </p>
-
 
 ---
 
