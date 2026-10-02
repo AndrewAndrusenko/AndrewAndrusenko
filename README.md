@@ -53,15 +53,19 @@ I am a performance-focused Full-Stack Engineer with an extensive background in t
 
 ### 📊 GitHub Ecosystem Metrics
 
-![Top Languages](https://vercel.app)
 
-![GitHub Stats](https://vercel.app)
-
-![GitHub Streak](https://herokuapp.com)
-
----
-src="https://herokuapp.com" alt="GitHub Streak" />
+<p align="left">
+  <img src="https://vercel.app" alt="Top Languages" />
 </p>
+
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
+</p>
+
 
 ---
 
