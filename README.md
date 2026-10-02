@@ -62,7 +62,7 @@ I am a performance-focused Full-Stack Engineer with an extensive background in t
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.hero_kuapp.com/?user=andrewandrusenko&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrewandrusenko&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
