@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrew Andrusenko</h1>
-<h3 align="center">Senior Full-Stack / Frontend Engineer specializing in FinTech Architectures & Web Performance</h3>
+<h3 align="center">Full-Stack / Frontend Engineer specializing in FinTech Architectures & Web Performance</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=andrewandrusenko&label=Profile%20views&color=0e75b6&style=flat" alt="andrewandrusenko" /> 
