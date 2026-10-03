@@ -69,4 +69,4 @@ I am a performance-focused Full-Stack Engineer with an extensive background in t
 
 ### 🤝 Connect with Me
 *   **Email:** aandrusenko3@gmail.com
-*   **LinkedIn:** [Andrew Andrusenko on LinkedIn](https://linkedin.com)
+*   **LinkedIn:** [Andrew Andrusenko on LinkedIn](https://www.linkedin.com/in/andrew-andrusenko-2b441b203/)
